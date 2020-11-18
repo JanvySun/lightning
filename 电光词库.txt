@@ -18073,7 +18073,7 @@ ewpg 舱室
 ewpr 受人之托
 ewpu 用人之道
 ewpw 脸容
-ewq 脸色 氧化钙 氯化钠
+ewq 脸儿 脸色 氯化钠
 ewqc 脸色
 ewqg 氧化钙
 ewqk 氧化铝
@@ -23625,7 +23625,7 @@ fyyj 考试说明
 fyyt 南京话
 fyyv 协议离婚
 fyyw 博弈论
-g 一 王 理
+g 一 王 到
 ga 开 型 弄
 gaa 形式 一幕幕 开幕式
 gaaa 形式 开工 开幕式
@@ -24082,7 +24082,7 @@ gbx 不出意外
 gbxq 不出意外
 gby 不承认
 gbyw 不承认
-gc 到 致 玛
+gc 至 致 玛
 gca 万圣节
 gcab 万圣节
 gcah 玛雅
@@ -24117,7 +24117,7 @@ gcep 至爱
 gces 致胜
 gcet 不能用
 gceu 万能胶
-gcf 至 臻
+gcf 臻
 gcfb 郅
 gcfe 至真
 gcff 两难境地
@@ -24930,7 +24930,7 @@ gfga 玩弄 球形
 gfgb 不过来了
 gfgc 一直到
 gfge 恶声恶气
-gfgf 玩玩 一动不动 不堪一击
+gfgf 一动不动 不堪一击
 gfgg 球王 一夫一妻 王老五
 gfgh 环境下
 gfgk 一声不响 一声不吭 不声不响 天地万物
@@ -25119,7 +25119,7 @@ gfys 不堪设想 一直这样
 gfyu 至于说
 gfyx 平均率
 gfyy 平均主义 环境主义
-gg 五 琴
+gg 五 琴 一致
 gga 一切 玫瑰花 豌豆荚
 ggaa 一式
 ggab 环节
@@ -25748,7 +25748,7 @@ ghmf 下周
 ghmg 下贱 下同
 ghmh 正由
 ghmi 下市
-ghmj 正则 与此同时
+ghmj 与此同时 正则
 ghmm 下岗 下山 下册
 ghmn 琥
 ghmq 政见
@@ -26765,13 +26765,13 @@ gkyn 事记
 gkyo 事迹 事变
 gkyt 不听话
 gkyu 更别说
-gl 画 副 理
+gl 理 副 画
 gla 理工
 glaa 理工
 glaq 画苑
 glar 画匠
 glat 副攻
-glb 王思聪 不足取 亚足联
+glb 画
 glbc 不足取
 glbk 副职
 glbm 画出 逼出 理出
@@ -27785,7 +27785,7 @@ goyt 一席话
 goyu 来说
 goyw 不断变化
 goyy 灭亡
-gp 带 一定 璇
+gp 带 琛 璇
 gpa 不定式 开放区
 gpaa 不定式
 gpal 一定范围 平方英里 现实世界
@@ -33987,7 +33987,7 @@ ibyt 滁州 池州
 ibyu 学说
 ibyv 学良
 ibyy 学文
-ic 汉 治 泽
+ic 汉 泽
 ica 泾
 icaa 汗马功劳
 icad 汉藏 沉鱼落雁
@@ -38252,7 +38252,7 @@ iueh 湔
 iuem 润肺 海盗船
 iues 溢彩
 iuew 清新脱俗
-iuf 举动 滚动 泮
+iuf 举 泮
 iufb 滚地
 iufc 举动 滚动
 iuff 混凝土
@@ -56717,6 +56717,7 @@ nov 慷 慵 屡
 novb 屡犯
 nove 慵
 novi 心灵
+now 必做
 nowb 屡创
 nowd 必做
 nowe 敢为人先 心广体胖
@@ -56726,6 +56727,7 @@ nowh 必修
 nowk 情为何物
 nowl 必作
 nowp 惦念
+nowu 慵倦
 nox 导火线
 noxc 必经 屡经
 noxg 导火线
@@ -63275,6 +63277,7 @@ piyt 家常话
 piyw 宵夜 方法论
 pj 养 审 寓
 pja 养花
+pjam 褐黄
 pjaw 养花
 pjb 养子 羊蝎子
 pjbb 养子 羊蝎子
@@ -74646,7 +74649,7 @@ rthk 接入点
 rthm 卑微
 rtht 挺身
 rthv 手眼 势利眼
-rti 朱自清 年利润 擤鼻涕
+rti 年利润 擤鼻涕
 rtia 插满
 rtie 手淫 热血沸腾 手洗
 rtif 手法 手汗
@@ -78944,7 +78947,7 @@ sppl 进军
 sppn 检察官
 sppo 丁字裤
 sppy 权宜之计
-spq 枕 棕色 柯察金
+spq 枕 棕色 棕褐色
 spqc 棕色
 spqq 柯察金
 spqt 样儿
@@ -87527,7 +87530,7 @@ ukos 冲床
 ukou 总料
 ukov 总数
 ukoy 商品粮
-ukp 总之
+ukp 冲着 总之
 ukpd 冲突
 ukpf 冲冠
 ukph 冲着 总被
@@ -94170,6 +94173,7 @@ wbdm 全取三分 创面
 wbe 创造
 wbek 创造
 wbel 命盘
+wber 做出选择
 wbet 他用
 wbey 命脉
 wbf 命运 仅限于 任职于
@@ -101906,7 +101910,7 @@ xtqc 绛色
 xtqe 张角
 xtqf 乡镇
 xtqv 缝键
-xtr 张扬
+xtr 张扬 终年
 xtrf 张挂
 xtrg 张皇
 xtrh 终年
@@ -106865,7 +106869,7 @@ ywpk 文化宫
 ywpo 论客
 ywpu 褒善
 ywpw 诊察 夜宿
-ywq 夜色 文件名 这会儿
+ywq 这会儿 夜色
 ywqa 认错
 ywqc 夜色
 ywqk 文件名
