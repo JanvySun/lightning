@@ -1,5 +1,5 @@
-a 工 花 共
-aa 式 戒 工艺
+a 工 花 共 七 戈 弋 戒 芽 巷
+aa 式 戒 工艺 匿 慝 芽 苣 荛 苦苦
 aaa 葡萄牙 茉莉花 某某某
 aaae 黄花菜
 aaaf 某某某
@@ -199,7 +199,7 @@ aayf 苦苦哀求
 aayo 匿迹
 aayp 花落谁家
 aayq 茫茫夜色
-ab 节 芨 萨
+ab 节 芨 萨 巷 蒸 菡 荪 荫 茸
 abab 节节
 abag 若隐若现
 abao 荫蔽
@@ -295,7 +295,7 @@ abyd 巧取豪夺
 abye 节哀
 abyl 节课
 abyr 节义
-ac 芭 苡 功能
+ac 芭 苡 功能 茎 茅 苔 节能 茅台 苦难
 aca 茎
 acac 苔藓
 acad 雅鲁藏布
@@ -350,7 +350,7 @@ acwf 茅舍
 acww 戎马倥偬
 acxx 芭比
 acyy 英勇就义
-ad 若 藏 节奏
+ad 若 藏 节奏 莽 惹 戎 苦 藕 茂
 ada 莽 蕻
 adaa 藏匿 苦工
 adad 苦苦 莽莽
@@ -559,7 +559,7 @@ adys 英雄豪杰
 adyu 若说
 adyw 巨大变化
 adyy 英雄主义
-ae 菜 散 艿
+ae 菜 散 艿 莩 苴 艿 莆 工具 节选 节气
 aea 散落
 aeaa 菜式
 aeaf 若有若无
@@ -697,7 +697,7 @@ aexx 菜比
 aeyn 散记
 aeyu 菜谱
 aeyy 散文
-af 某 著 鞋
+af 某 著 鞋 贰 邯 靶 革 甘 鞑
 afa 鞲 劳动节
 afaa 落地式
 afab 鞯
@@ -934,7 +934,7 @@ afyj 或者说是
 afyl 勒诈
 afyu 或者说
 afyy 著文
-ag 七 戈 戒毒
+ag 七 戈 弋 廿 匚 廾 戒毒 藏青 惹事
 aga 荆 东丽区
 agaa 花开花落
 agaf 莱芜
@@ -1150,7 +1150,7 @@ agyn 巧记 匡谬
 agyr 共诉
 agyt 荆州 共话
 agyy 共议
-ah 牙 臣 项目
+ah 牙 臣 项目 雅 卧 鸦 熙 㐄 工行
 aha 某些东西
 ahaa 卧式
 ahad 卧虎藏龙
@@ -1322,7 +1322,7 @@ ahyd 雅言
 ahyl 牙膏
 ahyo 卧谈
 ahyu 邪说
-ai 东 范 蒸汽
+ai 东 范 蒸汽 恭 茫 薄 鸫 菠 汞
 aia 恭敬 黄浦区 茳
 aiaa 范式
 aiae 菠菜
@@ -1574,7 +1574,7 @@ aiym 英汉词典
 aiyn 荣誉证书
 aiyv 蒗
 aiyy 范文
-aj 莫 菲
+aj 莫 菲 蓝 匪 蓦 墓 划 慕 葛
 aja 萌芽 范晓萱
 ajaa 萌芽
 ajad 草莽 莫若
@@ -1822,7 +1822,7 @@ ajym 蓝调
 ajyn 莫忘 划词
 ajyu 莫说
 ajyx 草率
-ak 或 惑
+ak 或 惑 彧 勤 匮 觐 工号 工整 菜叶
 aka 勤劳
 akaa 莴苣
 akad 勤苦
@@ -1931,7 +1931,7 @@ akyf 勤读
 akyl 或谓
 akyt 或许
 akyu 或说
-al 功 苏 工作
+al 功 苏 工作 蒜 蔑 苗 茄 苦力 项圈
 ala 工作区 芝罘区
 alaa 苏式
 alab 蒜茸
@@ -2140,7 +2140,7 @@ alyv 世界记录
 alyw 世界文化
 alyx 功率
 alyy 世界主义
-am 黄 恐 花朵
+am 黄 恐 花朵 英 贡 芮 巩 苦肉 共同
 ama 蒲公英
 amaa 英式
 amab 黄菡
@@ -2363,7 +2363,7 @@ amyl 恐高 英亩
 amyp 英豪
 amyq 銎
 amyy 英文 共同语言
-an 世 艺
+an 世 艺 蔚 巨 忒 蕊 苦恼 惹恼 散心
 ana 蔬菜 苠
 anab 苠
 anae 蔬菜
@@ -2525,7 +2525,7 @@ anyj 恐怕就是
 anyo 巨变
 anyu 荩
 anyy 恐怖主义
-ao 蔽 芦 工业
+ao 蔽 芦 工业 蔗 蘼 匾 戒备 戒烟 茅房
 aoa 蔗 欧米茄 工业区
 aoaf 芦苇
 aoal 欧米茄
@@ -2629,7 +2629,7 @@ aoxl 藕断丝连
 aoy 蔡康永
 aoyi 蔡康永
 aoyj 工业文明
-ap 蒙 芳
+ap 蒙 芳 劳 芝 蔻 莹 萱 萤 荤
 apa 蒙蔽
 apaa 劳工
 apad 劳苦
@@ -2822,7 +2822,7 @@ apyg 蒙语
 apyk 薛定谔
 apyr 劳义
 apyu 薛之谦
-aq 敬 警 匹
+aq 敬 警 匹 葬 苑 葡 萄 鸢 擎
 aqa 葬 荷尔蒙 芪
 aqaa 警戒
 aqab 匹萨 七夕节
@@ -3010,7 +3010,7 @@ aqyo 黄昏恋
 aqyp 警亭
 aqyu 芍
 aqyy 菜鸟裹裹
-ar 区 欧
+ar 区 欧 艾 鸥 匠 殴 葩 蕉 戒指
 ara 欧式
 araa 欧式
 arae 芹菜 某年某月
@@ -3133,7 +3133,7 @@ arxb 区级 七年级
 arxv 苏打绿
 ary 欧文
 aryy 欧文
-as 东西 茜
+as 东西 茜 苯 蘸 苛 菘 蕈 葚 菥
 asa 艺术节
 asab 艺术节
 asar 莺歌燕舞
@@ -3246,7 +3246,7 @@ asxr 草木皆兵
 asy A柱 菜根谭
 asyq 苛刻
 asys 菜根谭
-at 董 医 攻
+at 董 医 攻 翳 翘 莓 薰 芊 尧
 ata 医药 苌 苏黎世
 atab 鞭长莫及
 atae 黄牌警告
@@ -3417,7 +3417,7 @@ atyf 攻读 攻讦
 atyh 萎谢
 atyl 翘课
 atyy 功利主义 工程设计
-au 燕 蒋
+au 燕 蒋 薪 蒹 菩 蒂 蒴 莘 蕲
 aua 葱姜蒜 菜单项
 auab 菩萨
 auad 菜单项
@@ -3558,7 +3558,7 @@ auyg 东道主
 auyi 燕京
 auyt 东北话
 auyy 共产主义
-av 切 获
+av 切 获 萧 菇 荨 荻 苕 薅 艽
 ava 勤杂工
 avaa 勤杂工
 avae 切菜
@@ -3683,7 +3683,7 @@ avyn 切记
 avyo 切变
 avyt 获许
 avyu 芄
-aw 蔡 茶 薛
+aw 蔡 茶 薛 孽 葵 巫 莅 茯 苁
 awa 工作区 蔡健雅
 awaa 花式
 awac 花茎
@@ -3982,7 +3982,7 @@ awyg 花语 工作证
 awyh 花谢
 awyv 黄俊郎
 awyy 世俗主义
-ax 药 蕴
+ax 药 蕴 节约 荭 薏 芎 芘 蒈 划线
 axa 蕴藏 荭
 axad 蕴藏
 axae 莼菜
@@ -4109,7 +4109,7 @@ axxr 蒈
 axy 药剂
 axyj 药剂
 axyl 药膏
-ay 荒 芒 或许
+ay 荒 芒 或许 蓄 蓑 蒿 萃 匿迹 节哀
 aya 薰衣草 莫文蔚
 ayae 荠菜
 ayaf 荒芜
@@ -4235,8 +4235,8 @@ ayyo 荒蛮
 ayyt 荒诞
 ayyu 功率谱
 ayyx 共享率
-b 了 也 随
-ba 陈 隐藏 取巧
+b 了 也 随 耶 聚 阻 陵 凶 隐
+ba 陈 隐藏 取巧 阴茎 阴蒂 阳萎 出勤 堕落 陨落
 baa 防范工作
 baal 防范工作
 baaw 防范工作
@@ -4318,7 +4318,7 @@ bayr 陈诉
 bayu 陈说
 bayw 隐藏文件
 bayx 出勤率
-bb 子 耶 孩子
+bb 子 耶 孩子 子孙 孙子 孑孓 聚聚 除了 取出
 bba 子贡
 bbad 子项
 bbam 子贡
@@ -4427,7 +4427,7 @@ bbyh 除了这些
 bbyp 子豪
 bbyt 耶诞
 bbyw 子夜 除了这个
-bc 取 聚
+bc 取 聚 也能 聂 娶 颞 鄹 阳台 联通
 bca 陉
 bcae 聚散
 bcag 取巧
@@ -4562,7 +4562,7 @@ bcyj 聚齐
 bcyn 取词
 bcyo 聚变 聚谈
 bcyr 聚义
-bd 承 隋 陌
+bd 承 隋 陌 隳 陇 子龙 阴历 阳寿 陨石
 bda 隋
 bdap 承蒙
 bday 隳
@@ -4662,7 +4662,7 @@ bdyh 承让
 bdyl 陇亩 出厂设置
 bdyw 承认
 bdyy 陈友谅
-be 阴 阻
+be 阴 阻 也有 堕 子爵 取胜 承受 出气 聘用
 bea 堕落
 beac 阴茎
 bead 孤胆英雄
@@ -4828,7 +4828,7 @@ beyn 随记
 beyp 随访
 beyt 随州
 beyy 阴文
-bf 陆 陵
+bf 陆 陵 隐士 孺 蚩 阮 承载 隋朝 阴雨
 bfa 陵墓
 bfaj 陵墓
 bfb 孔夫子
@@ -4916,7 +4916,7 @@ bfxx 阴雨绵绵
 bfy 陆离
 bfyb 陆离
 bfyk 出土文物
-bg 卫 耳
+bg 卫 耳 取到 隔 陋 阢 陕 取下 取来
 bga 隔开
 bgab 陋巷
 bgaf 卫鞅
@@ -5103,7 +5103,7 @@ bgyg 耳语
 bgyt 孔融让梨
 bgyv 聊天记录
 bgyw 隔夜
-bh 耻 隐身 也得
+bh 耻 隐身 也得 芔 陂 骘 陟 屮 阽
 bha 防御工事
 bhag 防御工事
 bhb 取得了 陆战队
@@ -5253,7 +5253,7 @@ bhyo 也谈
 bhyt 也许
 bhyu 也说
 bhyy 也该
-bi 孙 逊 函
+bi 孙 逊 函 丞 卺 隙 逊 取消 阴沉
 bia 随波荡漾
 biaa 出水芙蓉
 biai 随波荡漾
@@ -5367,7 +5367,7 @@ biy 函调
 biym 函调
 biyq 聚少离多
 biyy 孙文
-bj 阳 也是 随时
+bj 阳 也是 随时 陧 隅 隰 子时 子曰 阴影
 bja 阳萎
 bjat 阳萎
 bjbf 随时随地
@@ -5470,7 +5470,7 @@ bjya 阳谋
 bjym 阳亢
 bjys 也是这样
 bjyy 阳文
-bk 职 陡
+bk 职 陡 出口 亟 陨 聩 陡 子嗣 随口
 bka 职工
 bkaa 职工
 bkai 陨落
@@ -5564,7 +5564,7 @@ bky 陡
 bkyl 职高
 bkyo 陡变
 bkyy 随口说说
-bl 阵 孟
+bl 阵 孟 出国 隈 阼 勐 际 取回 阻力
 bla 阵营
 blap 阵营
 blb 孟子 阵子
@@ -5647,7 +5647,7 @@ blxn 孟母
 bly 阵亡 陈思诚
 blyd 陈思诚
 blyy 阵亡
-bm 出 聘
+bm 出 聘 随风 聃 祟 粜 阴风 耳朵 阳刚
 bma 出勤 出工
 bmaa 出工
 bmaf 出鞘
@@ -5838,7 +5838,7 @@ bmyi 出就
 bmyj 出齐
 bmyp 出访
 bmyw 出诊
-bn 及 孔
+bn 及 孔 出丑 孑 孔 乜 凵 阝 卩
 bna 阿司匹林
 bnab 附属医院
 bnas 阿司匹林
@@ -5940,7 +5940,7 @@ bnxc 也已经
 bnxf 了结
 bny 了望
 bnye 了望
-bo 耿 职业 函数
+bo 耿 职业 函数 取火 隋唐 随礼 卫视 了断 降序
 boa 孟庭苇
 boaf 孟庭苇
 bob 耿耿
@@ -6004,7 +6004,7 @@ boy 也应该 防腐剂
 boyj 也应该是 防腐剂
 boyk 职业高中
 boyy 也应该
-bp 院 防 辽
+bp 院 防 辽 耽 聍 陀 子宫 陆军 也被
 bpa 院花
 bpai 防范 院落 辽东
 bpar 防区
@@ -6150,7 +6150,7 @@ bpy 耽误 限定词
 bpya 院试
 bpyk 耽误
 bpyn 限定词
-bq 聊 隐
+bq 聊 隐 随我 孢 陶 陷 承包 出名 凶残
 bqa 隐藏
 bqaa 隐式 隐匿
 bqad 隐藏
@@ -6272,7 +6272,7 @@ bqyf 隐讳
 bqyg 隐语
 bqyk 隐衷
 bqyw 除夕夜
-br 孤 孤独 承担
+br 孤 陈年 承担 阪 隍 隗 陴 聚集 随后
 bra 孤苦
 brad 孤苦
 brb 孤陋
@@ -6360,7 +6360,7 @@ brxb 限制级
 brxf 孤独终老
 bry 孤高
 bryl 孤高
-bs 阿 联想 陌生
+bs 阿 随机 陌生 阱 耵 耳机 联想 阴森 卫校
 bsa 阿甘
 bsaf 阿甘
 bsan 阴森恐怖
@@ -6499,7 +6499,7 @@ bsyg 阿语
 bsyj 阿衰 随机变量
 bsyv 阿谀
 bsyx 出生率
-bt 降 凶
+bt 降 凶 随和 聒 阡 陲 隆 孜 艸
 bta 降落
 btai 降落
 btan 降世
@@ -6647,7 +6647,7 @@ bty 孜 出入证
 btyg 出入证
 btym 降调
 btyo 凶蛮
-bu 聪 联
+bu 聪 联 阴道 隧 障 陪 隘 阴间 阴凉
 bua 陪葬
 buak 联勤
 buap 联营
@@ -6783,7 +6783,7 @@ buyf 陪读
 buym 联调
 buyp 联谊
 buyy 孤立主义
-bv 限 出发 子女
+bv 限 出发 子女 随即 孙女 出狱 隐忍 阿姨 附录
 bva 限薪
 bvau 限薪
 bvb 孙猴子 阿猫阿狗
@@ -6857,7 +6857,7 @@ bvx 孤独终老
 bvxf 孤独终老
 bvy 限高
 bvyl 限高
-bw 队 坠
+bw 队 坠 取代 附 险 阶 除 陛 聚会
 bwa 坠落
 bwaa 险工
 bwai 坠落
@@ -7027,7 +7027,7 @@ bwyd 附言
 bwym 附设
 bwyn 附记
 bwyy 附议 随便说说
-bx 阶级 隐约 陆续
+bx 阶级 隐约 陆续 子母 子弹 随意 降级 防线 联结
 bxa 阶级革命
 bxaw 阶级革命
 bxb 阿弥陀佛
@@ -7089,7 +7089,7 @@ bxxi 阶级统治
 bxy 联绵词 防弹衣
 bxye 防弹衣
 bxyn 联绵词
-by 孩 陔 也许
+by 孩 陔 也许 孓 阴谋 承诺 阵亡 附议 聚义
 bya 出谋划策
 byat 出谋划策
 byb 孩子 阳离子 阴离子
@@ -7168,8 +7168,8 @@ byyj 也许就是
 byys 也就这样
 byyw 也许就会 阴谋论
 byyy 阴谋诡计
-c 以 又 难
-ca 戏 颈
+c 以 又 难 通 颈 骤 怼 劲 允
+ca 戏 颈 以东 鳓 刭 弁 劲 驱 巯
 caa 驱散
 caaa 能工巧匠
 caad 颈项
@@ -7288,7 +7288,7 @@ cayh 戏谑
 cayn 马革裹尸
 cayu 戏说
 cayy 戏文
-cb 驰 骤
+cb 驰 骤 对了 鲰 邓 戏子 双子 对联 以及
 cba 双职工
 cbaa 双职工
 cbah 驱除鞑虏
@@ -7353,7 +7353,7 @@ cbwo 骄阳似火
 cbwy 骤停
 cby 骤变
 cbyo 骤变
-cc 双 骚
+cc 双 骚 双双 垒 骉 叒 骖 驿 颡
 cca 双节 鳄鱼鞋
 ccaa 双工
 ccab 双节
@@ -7615,7 +7615,7 @@ ccym 双赢
 ccyn 叠词 难以忘怀
 ccyu 又说
 ccyy 双亡 难以忘记 难以言说 又该
-cd 参 骑
+cd 参 骑 对面 驮 叁 毵 畚 鲕 鱿
 cdb 参院
 cdbp 参院
 cdc 鱿鱼 鳜鱼 鲅
@@ -7734,7 +7734,7 @@ cdyq 参劾
 cdys 参订
 cdyv 叁郎
 cdyy 参议
-ce 能 通
+ce 能 通 又有 驵 鲔 甬 勇 恿 鳐
 cea 通式 通工 马靠鞍
 ceaa 通式 通工
 cead 通项
@@ -7941,7 +7941,7 @@ ceyp 通亮
 ceyt 通话 通州
 ceyu 能说
 ceyw 通论
-cf 对 怼 对于
+cf 对 怼 对于 鲼 圣 鲑 𠬤 鳍 驱动
 cfa 对攻 鲼
 cfaa 对戒
 cfam 鲼
@@ -8146,7 +8146,7 @@ cfys 对讲
 cfyt 对话 圣诞
 cfyw 对于这个 圣谕
 cfyx 通过率
-cg 以下 以来
+cg 以下 以来 又来 鲭 鲠 骊 鲡 鲆 戏弄
 cga 邓亚萍
 cgad 马到功成
 cgag 以毒攻毒
@@ -8222,7 +8222,7 @@ cgwl 马不停蹄
 cgwy 对不住
 cgy 以事论事
 cgyg 参政议政 以事论事
-ch 以上 马上 以往
+ch 以上 马上 以往 鲇 鲈 双眸 骑上 圣上 对战
 cha 以东 马齿苋
 chai 以东
 cham 马齿苋
@@ -8334,7 +8334,7 @@ chyh 以让
 chyi 以身试法
 chyj 以上说明
 chys 马上就要
-ci 通常 台湾
+ci 通常 台湾 能源 圣水 对流 劝学 劝酒 巴掌 观光
 cib 鲁滨逊 鲁滨孙
 cibi 鲁滨逊 鲁滨孙
 cic 观赏鱼
@@ -8385,7 +8385,7 @@ ciwf 通常会
 ciwi 以水代酒
 ciwu 双学位
 ciww 台湾人
-cj 鲁 又是
+cj 鲁 又是 能量 鲣 鲱 鲥 鳗 鲲 鲳
 cja 鲁莽
 cjad 鲁莽
 cjae 鲁菜
@@ -8446,7 +8446,7 @@ cjy 通电话 能量谱
 cjys 又是这样
 cjyt 通电话
 cjyu 能量谱
-ck 台 驶 对啊
+ck 台 驶 对啊 邰 鳄 驯 怠 迨 炱
 cka 台式 怠工
 ckaa 台式 怠工
 ckai 台东
@@ -8553,7 +8553,7 @@ ckyg 台语
 ckyn 台词
 ckyt 台州
 ckyv 驯良
-cl 劝 能力
+cl 劝 能力 参加 鲤 鲴 驷 鳃 鲢 骒 骡
 cla 鲤 马蹄莲
 clab 马路牙子
 claj 劝募
@@ -8642,7 +8642,7 @@ clya 劝诫
 clyl 劝谏
 clyt 劝诱
 clyu 劝说
-cm 观 骋 以内
+cm 观 骋 以内 鳢 鲷 皴 逡 夋 戏曲
 cma 鳢
 cmc 难分难舍
 cmcq 难分难解 骗财骗色
@@ -8727,7 +8727,7 @@ cmy 观望
 cmye 观望
 cmyf 巴山夜雨
 cmyg 难分高下
-cn 马 巴
+cn 马 巴 对局 骣 鲺 厶 ス 双飞 骗局
 cna 双飞燕 鸡蛋黄 难民营
 cnab 巴萨
 cnaf 马鞍 马鞭 马勒
@@ -8886,7 +8886,7 @@ cny 厶 ス
 cnye 巴望
 cnyo 双性恋
 cnyv 马良
-co 骗 驴 以为
+co 骗 驴 以为 骆 馬 鳊 骟 魚 鳙
 coa 驴鞭
 coaf 驴鞭
 cob 骗取 预备队
@@ -8967,7 +8967,7 @@ coww 骗人
 coy 难度高
 coyl 难度高
 coyr 骗谁
-cp 鲜 驼 对方
+cp 鲜 驼 对方 鲩 鲂 鳝 双方 通宵 观察
 cpa 鲜花 鸡冠花
 cpaw 鲜花 鸡冠花
 cpb 参赛队 鲁宾逊
@@ -9055,7 +9055,7 @@ cpxv 鲜绿
 cpy 对方 双字词
 cpyn 双字词
 cpyp 鲜亮
-cq 鸡 欢 欢迎
+cq 鸡 欢 欢迎 允 驹 鲍 驺 骝 对错
 cqa 马铃薯
 cqal 马铃薯
 cqb 允
@@ -9194,7 +9194,7 @@ cqya 允诺
 cqyl 骝
 cqyt 允许
 cqyy 马列主义
-cr 驳 骓 以后
+cr 驳 骓 以后 鳇 牟 双杀 双押 双手 双拼
 cra 难惹
 crad 难惹
 crb 牟取
@@ -9361,7 +9361,7 @@ crys 难讲
 cryu 难说
 cryw 驳论
 cryy 驳议
-cs 予 预 柔
+cs 予 预 柔 骛 瞀 骠 蟊 豫 矛
 csa 预警
 csaq 预警
 csb 台柱子
@@ -9510,7 +9510,7 @@ csym 预设 预调
 csys 预订
 csyt 以权谋私 豫州
 csyy 骐
-ct 鱼 矣
+ct 鱼 矣 通知 骄 欸 鳆 鳅 稣 鲧
 cta 鱼苗
 ctab 鱼香茄子
 ctal 鱼苗
@@ -9636,7 +9636,7 @@ ctxw 骄纵
 ctxy 双系统
 cty 稣
 ctyg 双管齐下
-cu 难道 以前
+cu 难道 以前 通关 骈 骥 鲛 鳟 双亲 通病
 cua 骈
 cub 台北队
 cubw 台北队
@@ -9704,7 +9704,7 @@ cuyu 难道说
 cuyv 以次充好
 cuyw 马前卒
 cuyy 骈文
-cv 艰 又如
+cv 艰 又如 劝退 鲫 鲟 鲻 鲵 鲜奶 通奸
 cva 艰苦
 cvad 艰苦
 cvan 艰巨
@@ -9744,7 +9744,7 @@ cvuy 艰辛
 cvw 双刃剑
 cvwi 双刃剑
 cvws 戏如人生
-cw 验 骄傲 双人
+cw 验 骄傲 双人 骅 驸 鲋 鲶 驱使 双休
 cwa 通信工程
 cwat 通信工程
 cwb 双保险
@@ -9845,7 +9845,7 @@ cwxj 预付费
 cwy 验证
 cwyg 验证
 cwyk 通俗读物
-cx 对比 预约
+cx 对比 预约 对线 双引 通红 通缉 观音 巴结 鲜红
 cxa 观音菩萨
 cxaa 观音菩萨
 cxb 圣母院
@@ -9890,7 +9890,7 @@ cxx 双绞线
 cxxg 双绞线
 cxy 以飨读者
 cxyf 以飨读者
-cy 叉 驻
+cy 叉 驻 双亡 鲸 蚤 鲚 骧 骇 对话
 cya 圣诞节 通州区
 cyab 圣诞节
 cyar 驻区 通州区
@@ -9988,8 +9988,8 @@ cyyd C语言
 cyyi 驻京
 cyyv 通话记录
 cyyw 圣诞夜
-d 在 而 大
-da 左 砸
+d 在 而 大 砸 厄 夺 夸 厚 爽
+da 左 砸 大蒜 砑 礴 厝 磺 碟 奁
 daa 灰蒙蒙
 daap 灰蒙蒙
 daar 大巧若拙
@@ -10151,7 +10151,7 @@ day 成功率 大功率 硭
 dayn 砌词
 dayp 百花齐放
 dayx 成功率 大功率
-db 顾 厄
+db 顾 厄 大陆 耷 础 顾及 码子 厂子 耗子
 dba 面子工程
 dbat 面子工程
 dbaw 成也萧何
@@ -10245,7 +10245,7 @@ dby 历险记
 dbyg 顾主
 dbyj 艳阳高照
 dbyn 历险记
-dc 友 雄 码
+dc 友 雄 码 磉 碜 犮 厷 三观 咸鱼
 dca 丰台区
 dcaj 克难攻坚
 dcam 雄黄
@@ -10382,7 +10382,7 @@ dcy 左对齐 右对齐
 dcyj 左对齐 右对齐
 dcyp 友谊
 dcyx 码率
-dd 套 磊 硕
+dd 套 磊 硕 飙 靥 砺 厦 厌 魇
 dda 大碗茶
 ddab 大节
 ddad 大项
@@ -10792,7 +10792,7 @@ ddyt 大话 套话
 ddyv 大郎
 ddyw 存在论
 ddyy 存在主义
-de 胡 辰
+de 胡 辰 大胆 硼 髻 蜃 髯 鬃 鬓
 dea 面有菜色
 deaq 面有菜色
 deb 胡子 胡了
@@ -10950,7 +10950,7 @@ deys 大有玄机
 deyt 胡话
 deyu 胡说 大有文章
 deyw 而且这个
-df 压 夺 夸
+df 压 夺 夸 奔 磕 砝 硅 奎 瓠
 dfa 奔
 dfai 硅藻
 dfar 三魂七魄
@@ -11194,7 +11194,7 @@ dfye 奢望
 dfyo 压弯 奢谈
 dfyu 大块文章
 dfyy 硕士论文
-dg 三 古 达到
+dg 三 古 达到 硎 砘 丆 硬 礓 戌
 dga 研 破天荒 硎
 dgab 三节 古巷
 dgad 三项 三藏
@@ -11532,7 +11532,7 @@ dgyt 古话
 dgyu 古谚
 dgyv 硬朗
 dgyy 古文
-dh 破 酆
+dh 破 酆 丰 戛 慧 契 戚 蹙 艳
 dha 戛
 dhaa 破戒
 dhad 丰茂
@@ -11808,7 +11808,7 @@ dhyp 在这
 dhys 石墨文档
 dhyw 夏夜
 dhyy 存亡
-di 耗 耕
+di 耗 耕 大学 耢 耔 耨 耘 耦 泵
 dia 大兴区 耩 耢
 diaa 奔波劳苦
 diad 奔波劳碌
@@ -11973,7 +11973,7 @@ diyn 耍流氓
 diyv 感觉良好
 diyx 耕畜 成活率 存活率
 diyy 大学语文
-dj 百 厚
+dj 百 厚 耗时 碍 砷 奄 鹌 碣 大量
 dja 感冒药 奉贤区
 djag 春暖花开
 djai 厚薄
@@ -12141,7 +12141,7 @@ djyo 百变
 djyp 厚谊
 djyu 而是说
 djyw 而是这个
-dk 右 咸
+dk 右 咸 在哪 厨 夼 感 砸中 大骂 大哭
 dka 三叶草
 dkae 咸菜
 dkaj 三叶草
@@ -12333,7 +12333,7 @@ dkyl 历史课
 dkyn 感叹词
 dkyw 历史文化
 dkyy 历史主义
-dl 石 历
+dl 石 历 压力 厘 奋 砟 砗 夯 奈
 dla 厘 感恩节 大罢工
 dlaa 大罢工
 dlab 感恩节
@@ -12518,7 +12518,7 @@ dlyj 原因就是
 dlyl 石膏
 dlyq 石刻
 dlyv 奈良
-dm 面 布 页
+dm 面 布 页 碘 碳 耐 碉 厕 耍
 dma 碘 三八节 三八式
 dmaa 三八式
 dmab 三八节
@@ -12810,7 +12810,7 @@ dmyv 布朗
 dmyw 而论
 dmyx 百分率
 dmyy 面议 而亡 古典主义
-dn 成 盛 尤
+dn 成 盛 尤 尴 尬 碾 臧 戌 戍
 dna 碾 DNA 大屏幕
 dnab 成荫
 dnai 春心荡漾 春情荡漾
@@ -13014,7 +13014,7 @@ dnyq 感慨良多
 dnyu 成说
 dnyw 成夜
 dnyy 成文 感性认识 三民主义
-do 灰 矿 磷
+do 灰 矿 磷 硌 盔 碥 大度 百度 大神
 doa 灰度
 doaa 矿工
 doad 矿藏
@@ -13158,7 +13158,7 @@ doy 百度文库
 doyg 矿主
 doym 百度词典
 doyo 百度文库
-dp 达 碗
+dp 达 碗 顾客 磋 碇 碹 牵 砣 丰富
 dpa 磋
 dpaa 厚养薄葬
 dpal 研究工作
@@ -13325,7 +13325,7 @@ dpyj 研究证明
 dpyn 三字词
 dpyo 大家认为
 dpyp 大富豪
-dq 克 砍 矽
+dq 克 砍 矽 砥 磔 兢 确 鸪 砾
 dqa 砥 磔
 dqag 克莱
 dqas 磔
@@ -13478,7 +13478,7 @@ dqyo 三角恋
 dqyv 克朗
 dqyw 确认 确诊
 dqyy 达尔文 硪
-dr 原 爽
+dr 原 爽 大招 碓 斫 愿 礁 碑 胡扯
 dra 牵牛花 大白菜 大扫荡
 draa 原式
 drae 大白菜
@@ -13687,7 +13687,7 @@ dryv 爽朗
 dryw 大年夜
 dryx 胡搅蛮缠
 dryy 原文 原谅 碑文 爽文
-ds 厅 奇 大概
+ds 厅 奇 大概 硒 厢 碴 剞 砢 厮
 dsa 大本营 龙井茶
 dsag 奇巧
 dsal 奇功
@@ -13855,7 +13855,7 @@ dsyo 奇迹 奇谈
 dsyq 奇诡
 dsyx 达标率
 dsyy 奇文
-dt 帮 寿
+dt 帮 寿 飙升 邦 焘 硇 故 大片 大牌
 dta 三等功
 dtaa 帮工
 dtaj 大智若愚
@@ -14006,7 +14006,7 @@ dtye 寿衣
 dtyg 帮主
 dtyn 三简词
 dtyt 寿诞
-du 碰 磁
+du 碰 磁 破产 厥 劂 磙 砬 泵 磅
 duag 碰巧
 duai 碰落
 duav 雄姿英发
@@ -14171,7 +14171,7 @@ duyg 胡彦斌
 duyn 石头记
 duyu 在商言商
 duyw 大半夜
-dv 威 肆
+dv 威 肆 大妈 厩 碌 砀 砸毁 成婚 成群
 dva 厩
 dvb 太好了 大妹子 大杂院
 dvbb 大舅子 大嫂子 大妹子
@@ -14283,7 +14283,7 @@ dvxb 成群结队
 dvxn 肆意
 dvy 威望
 dvye 威望
-dw 春 泰
+dw 春 泰 奢华 砼 奉 奏 仄 蠢 赝
 dwa 夏令营 百合花 砼
 dwaa 三段式
 dwab 春节
@@ -14521,7 +14521,7 @@ dwyt 蠢话 泰州
 dwyu 大做文章
 dwyw 春夜
 dwyy 奏议 犬儒主义
-dx 龙 袭 聋
+dx 龙 袭 聋 龚 垄 砩 砒 砻 大意
 dxa 龚
 dxan 龙芯
 dxaq 袭警
@@ -14667,7 +14667,7 @@ dxxx 压缩比
 dxyj 大约就是
 dxyo 肆意妄为
 dxyy 龙文
-dy 太 态
+dy 太 态 丈 礅 硫 犬 戍 碎 古文
 dya 原计划
 dyah 犬牙
 dyai 奇文共赏
@@ -14886,8 +14886,8 @@ dyyn 古诗词
 dyyv 太郎
 dyyx 太玄
 dyyy 古诗文
-e 有 月 气
-ea 腻 膜 肛
+e 有 月 气 乃 甩 孕 县 告 受
+ea 腻 膜 肛 舡 胨 腊 貘 朦 艨
 eaa 毛茸茸
 eaab 毛茸茸
 eab 腻了
@@ -14959,8 +14959,8 @@ eawq 肛你
 eaww 腻人
 eay 爱莲说
 eayu 爱莲说
-eb 服 孕
-eba eBay 服药
+eb 服 孕 有限 郛 孚 郁 艋 乳 胆子
+eba 服药
 ebah 乳牙
 ebau 乳燕
 ebax 服药
@@ -15078,7 +15078,7 @@ ebxn 乳母
 eby 孕育
 ebyc 孕育
 ebyj 乳剂
-ec 县 肥
+ec 县 肥 有戏 氢 胫 胎 盈 悬 戤
 eca 氢 胫 戤
 ecag 胫
 ecar 县区
@@ -15214,7 +15214,7 @@ ecxu 氢弹
 ecy 胎记 先验论
 ecyn 胎记
 ecyw 先验论
-ed 须 氪 朋友
+ed 须 氪 朋友 肱 胯 腌 貊 腼 腠
 eda 爱奇艺 爱达荷
 edae 腌菜
 edan 爱奇艺
@@ -15296,7 +15296,7 @@ edxq 须弥
 edy 肽
 edyo 胆大妄为
 edyy 肽
-ee 朋 鹏
+ee 朋 鹏 朦胧 脬 氖 膊 肜 豚 脯
 eea 月薪
 eeaa 郁郁葱葱
 eeah 月牙
@@ -15462,7 +15462,7 @@ eey 脯
 eeyp 月亮
 eeyw 月夜
 eeyy 脯
-ef 肚 脚 肝
+ef 肚 脚 肝 肢 膨 虢 臌 腩 脖
 efa 脑震荡
 efab 肢节
 efai 脑震荡
@@ -15612,7 +15612,7 @@ efyj 气雾剂
 efyl 甫志高
 efyn 助动词
 efyt 脚话
-eg 甫 冇
+eg 甫 冇 有事 肫 爰 氰 胚 膈 胰
 ega 有形
 egaa 胚芽
 egab 有节
@@ -15855,7 +15855,7 @@ egyo 有变
 egyr 有谁
 egyt 有话
 egyu 且不说
-eh 且 有些 有点
+eh 且 有些 有点 胩 鼐 舻 胪 肚皮 爱上
 eha 脸皮薄
 ehah 有目共睹
 ehai 脸皮薄
@@ -15943,7 +15943,7 @@ ehxl 有点意思
 ehy 有些话
 ehyt 有些话
 ehyu 且说
-ei 逐渐
+ei 逐渐 有没 胆小 艄 膛 胱 尕 乳沟 选派
 eia 毛泽东
 eiai 毛泽东
 eib 胖小子
@@ -16027,7 +16027,7 @@ eix 膛线
 eixg 膛线
 eiy 气温计
 eiyf 气温计
-ej 胆 有时
+ej 胆 有时 胆量 腓 刖 胂 氘 氲 腥
 eja 有收获
 ejav 有收获
 ejb 胆子
@@ -16096,7 +16096,7 @@ ejxa 腥红
 ejy 胆识
 ejyk 胆识
 ejyl 胆颤
-ek 造 告
+ek 造 告 告别 郜 腭 肿 舯 靠 氚
 eka 造孽
 ekaw 造孽
 ekb 郜 先遣队
@@ -16235,7 +16235,7 @@ ekyp 造访
 ekyr 告诉
 ekyu 靠谱
 ekyx 造诣
-el 盘 助
+el 盘 助 有力 胭 氤 胙 爵 胛 胁
 ela 助攻
 elaa 助工
 elae 盘菜
@@ -16363,7 +16363,7 @@ elyf 盘诘
 elyj 助剂
 elyn 助记 助词
 elyy 爱国主义
-em 般 船 股
+em 般 船 股 腆 磐 肺 胴 舢 氙
 ema 腆
 emaa 船工
 emac 悬崖勒马
@@ -16502,7 +16502,7 @@ emxo 腊八粥
 emy 股评 船主
 emyg 股评 船主
 emyn 肌肉记忆
-en 毛 乃 甩
+en 毛 乃 甩 氇 毪 艉 毳 毡 脲
 ena 毛茸
 enab 毛茸
 enaf 毡靴
@@ -16635,7 +16635,7 @@ enxp 毛纺
 eny 毛衣
 enya 用心良苦
 enye 毛衣
-eo 脏 有为
+eo 脏 有为 月底 貉 胳 氮 膦 臁 腑
 eoa 有福共享
 eoay 有福共享
 eob 脏了
@@ -16714,7 +16714,7 @@ eoyo 用户词库
 eoyt 脏话
 eoyw 有神论
 eoyy 脒
-ep 爱 氧
+ep 爱 氧 受 敷 脖 脓 脘 腚 舜
 epa 腔
 epaa 受戒
 epad 受苦
@@ -16924,7 +16924,7 @@ epyp 受访
 epyr 受诉
 epyu 爱说
 epyv 爱郎
-eq 先 胸
+eq 先 胸 有色 胝 脆 赞 朐 胞 选
 eqa 选项 胝
 eqad 选项
 eqai 脆薄
@@ -17158,7 +17158,7 @@ eqys 先讲
 eqyt 赞许 有句话
 eqyu 先说
 eqyy 有句话说 有争议 脑死亡
-er 遥 貌 选择
+er 遥 貌 选择 脾 胍 雎 舶 腺 脎
 erak 有所区别
 eras 有的东西
 erb 鹞子
@@ -17276,7 +17276,7 @@ erwq 有所保留
 erws 腺体
 ery 有希望
 erye 遥望 有希望
-es 胜 彩 腰
+es 胜 彩 腰 舾 肼 膘 艚 舸 采
 esa 采药
 esah 采薇
 esal 采莲
@@ -17479,7 +17479,7 @@ esyp 采访
 esyr 胜诉
 esyw 先进文化 采认
 esyx 胜率
-et 用 舟
+et 用 舟 服务 胀 氕 艇 腹 貔 刖
 eta 胀 服务区
 etaa 用工
 etab 气节
@@ -17694,7 +17694,7 @@ etyf 用计
 etyg 用语 腹语
 etyn 用词
 etyt 气话
-eu 具 腾
+eu 具 腾 有关 胼 朕 豳 胖 豕 塍
 eua 膝关节 气门芯 胼
 euab 脱节 膝关节
 euad 逐项
@@ -17910,7 +17910,7 @@ euyt 胶州
 euyw 有关文件
 euyx 有效率
 euyy 具文 服装设计
-ev 肠 腿 艘
+ev 肠 腿 艘 妥 舀 腱 氯 貂 腴
 eva 腱鞘
 evaf 腱鞘
 evas 氯苯
@@ -17991,7 +17991,7 @@ evx 肠线
 evxg 肠线
 evy 肠衣
 evye 肠衣
-ew 脸 舱
+ew 脸 舱 有个 胗 腧 脍 貅 服从 服众
 ewa 脸萌
 ewaj 脸萌
 ewb 舱
@@ -18132,7 +18132,7 @@ ewyl 选修课
 ewyn 造个词
 ewyu 脸谱 有人说
 ewyy 肢体语言
-ex 脂
+ex 脂 月经 有缘 奚 氟 臆 舭 毛线 脆弱
 exa 奚落
 exai 奚落
 exb 脸红了
@@ -18217,7 +18217,7 @@ exyk 有意识
 exyl 脂膏
 exyr 有意义
 exyu 臆说
-ey 脑 航
+ey 脑 航 月亮 脉 脐 膻 肮 氦 胲
 eya 有计划
 eyaa 腋芽
 eyai 脱离苦海
@@ -18380,8 +18380,8 @@ eyxy 舷
 eyy 助记词
 eyyn 助记词
 eyyo 航迹
-f 地 都 十
-fa 塔 戴 载
+f 地 都 十 干 雨 寸 士 元 霉
+fa 塔 戴 载 霰 霸 坩 卉 堰 域
 faa 坦荡荡 雾蒙蒙 雪莲花
 faaa 塔式
 faai 坦荡荡 雾茫茫
@@ -18545,7 +18545,7 @@ faya 考试
 fayg 霸主 救世主
 fayl 雪花膏
 fayy 载文
-fb 教 圾 孝
+fb 教 圾 孝 邗 截取 裁出 孝子 埃及 去除
 fba 教职工 朝阳区
 fbaa 教工 教职工
 fbad 地藏
@@ -18772,7 +18772,7 @@ fbyl 教课
 fbyq 喜出望外
 fbyr 教义
 fbyt 教诲
-fc 去 云 劫
+fc 去 云 劫 却 动 盍 翅 运 魂
 fca 动工
 fcaa 动工
 fcae 云散
@@ -19053,7 +19053,7 @@ fcyq 云诡
 fcyu 却说
 fcyw 老马识途
 fcyy 动议 无以言说 朝鲜文
-fd 城 需 震
+fd 城 需 震 颥 垮 埯 雳 塬 顸
 fda 城区 震区 老古董
 fdai 震荡 城东
 fdal 朝三暮四 动态范围
@@ -19236,7 +19236,7 @@ fdyg 城主
 fdyl 震颤
 fdyn 老友记
 fdyy 封面设计
-fe 真 直 博
+fe 真 直 博 颠 堋 矗 埒 霾 埔
 fea 无用功
 feaf 朝气蓬勃
 feag 真巧
@@ -19477,7 +19477,7 @@ feyt 真话
 feyu 真谛
 feyx 直率
 feyy 博文 真该
-ff 土 封 墙
+ff 土 封 墙 坛 填 埴 圭 垚 卦
 ffa 运动鞋 老城区
 ffaa 真真切切 朝朝暮暮 坦坦荡荡
 ffad 老于世故
@@ -19617,7 +19617,7 @@ ffmf 雨雪风霜
 ffmh 封帐 土老帽
 ffmm 封山
 ffmo 垃圾分类
-ffmr 封网 地动山摇 城域网
+ffmr 地动山摇
 ffmt 封账
 ffmv 十二分
 ffmw 墙内 垃圾邮件
@@ -19761,7 +19761,7 @@ ffyn 填词
 ffyp 土豪
 ffyt 土话
 ffyy 博士论文
-fg 二 干 雨
+fg 二 干 雨 垤 寸 士 坏 坯 埂
 fga 干戈
 fgaa 十戒
 fgab 雨巷 封妻荫子
@@ -20096,7 +20096,7 @@ fgyt 坏话 二话
 fgyv 二郎
 fgyw 雨夜 士卒
 fgyy 未来主义
-fh 于 盐
+fh 于 盐 截止 坡 址 坫 盂 垆 墟
 fha 于世
 fhai 无上荣耀
 fhan 于世
@@ -20214,7 +20214,7 @@ fhx 志得意满
 fhxi 志得意满
 fhy 于谦
 fhyu 于谦
-fi 未 霄
+fi 未 霄 教学 嫠 霪 霈 逑 墚 救
 fia 老污花 运河区
 fiai 未落
 fiak 声誉鹊起
@@ -20483,7 +20483,7 @@ fiyt 救
 fiyu 无法访问
 fiyw 求诊
 fiyy 救亡 无法忘记 无法言说
-fj 者 韩
+fj 者 韩 于是 戟 霏 朝 埘 坦 坤
 fja 戟 教师节
 fjaa 韩式
 fjab 教师节
@@ -20685,7 +20685,7 @@ fjys 都是这样 真是这样
 fjyu 都说
 fjyx 坦率
 fjyy 韩文
-fk 吉 喜 嘉
+fk 吉 喜 嘉 颉 袁 彭 喆 囍 鼓
 fka 老中医
 fkai 鼓荡
 fkaj 喜鹊
@@ -20854,7 +20854,7 @@ fky 鼓
 fkyd 嘉诚 吉言
 fkyn 喜讯 远走高飞
 fkyt 嘉许
-fl 露 款
+fl 露 款 截图 埋 雷 增 协 塄 靐
 fla 埋 flag 填鸭式
 flaa 款式 填鸭式
 flad 埋藏 款项
@@ -21074,7 +21074,7 @@ flym 协调 增设 埋设
 flys 增订
 flyt 雷州
 flyy 协议
-fm 南 献
+fm 南 献 城市 逵 垌 击 垲 坍 垛
 fma 献花
 fmab 击节
 fmai 击落
@@ -21285,7 +21285,7 @@ fmyn 献词
 fmyo 南蛮
 fmys 封山育林
 fmyv 南诏
-fn 志 声
+fn 志 声 动心 亏 堀 磬 韬 韦 霞
 fna 卖萌 教书匠
 fnac 块茎
 fnad 专项
@@ -21558,7 +21558,7 @@ fnyt 真心话
 fnyu 地心说
 fnyw 教书育人 专论
 fnyx 真心诚意
-fo 赫 赤
+fo 赫 赤 城府 郝 赧 赭 螫 塘 墉
 foa 二房东
 foai 二房东
 foas 魂断蓝桥
@@ -21694,7 +21694,7 @@ foyl 专业课
 foyw 无神论
 foyx 专业训练
 foyy 都应该 无庸讳言
-fp 过 索 博客
+fp 过 索 博客 勃 孛 鹁 垸 壹 懿
 fpa 元宵节
 fpab 过节 元宵节
 fpam 十之七八
@@ -21934,7 +21934,7 @@ fpyt 老实话
 fpyu 老实说 过谦
 fpyv 喜之郎
 fpyw 过夜
-fq 无 元
+fq 无 元 去死 坻 顽 堍 远 均 坎
 fqa 坻
 fqad 无名英雄
 fqah 无邪
@@ -22283,7 +22283,7 @@ fqyq 无刻
 fqyt 无话
 fqyv 无良
 fqyw 无论
-fr 堆 霍 支持
+fr 堆 霍 支持 坂 垢 圻 埤 坼 支援
 fra 二手东 献殷勤 老掉牙
 frad 直捣黄龙
 frah 老掉牙
@@ -22442,7 +22442,7 @@ fryl 无所谓
 fryw 远近高低
 fryx 支持率
 fryy 专制主义
-fs 考 霖 霜
+fs 考 霖 霜 堙 坷 堪 霸权 教材 土木
 fsa 老校区
 fsaj 霜蓝
 fsak 考勤
@@ -22625,7 +22625,7 @@ fsyk 无极变速 老相识
 fsyl 真可谓
 fsys 考订
 fsyy 霸权主义 无可讳言
-ft 才 霉
+ft 才 霉 教程 霆 埏 雾 垧 坞 动笔
 fta 二等功
 ftab 协和医院
 ftah 无处藏身
@@ -22779,7 +22779,7 @@ ftyo 霉变
 ftyu 才说
 ftyx 增长率
 ftyy 教条主义 教科文
-fu 丧 幸
+fu 丧 幸 南北 垃 培 啬 墒 霎 霸道
 fua 墙头草 坟头草 封闭式
 fuaa 封闭式
 fuaf 埋头苦干
@@ -22935,7 +22935,7 @@ fuyc 培育
 fuyi 老北京
 fuyj 增塑剂
 fuyk 培训
-fv 雪 场
+fv 雪 场 真好 埭 埽 霓 垠 动怒 地狱
 fva 雪花 老鼠药
 fvad 雪藏
 fvae 雪菜
@@ -23076,7 +23076,7 @@ fvyq 喜怒哀乐
 fvyt 喜怒哀愁
 fvyw 雪夜 场论
 fvyy 封建主义
-fw 夫 零 替
+fw 夫 零 替 辇 规 埠 堠 埝 赍
 fwa 替代 卖个萌 无人区
 fwaa 零工
 fwae 零散
@@ -23254,7 +23254,7 @@ fwya 规诫
 fwyk 无从谈起
 fwys 才会这样
 fwyu 吉他谱
-fx 老 境
+fx 老 境 教练 耄 耋 耆 坳 坶 运维
 fxa 老练 雪绒花
 fxaa 老式
 fxag 老七
@@ -23483,7 +23483,7 @@ fxyt 老话
 fxyu 老说
 fxyw 索引文件
 fxyy 坶
-fy 坑 雯 坟
+fy 坑 雯 坟 墩 垴 霁 霭 壤 壕
 fya 坟墓
 fyag 无语苍天
 fyaj 坟墓
@@ -23625,8 +23625,8 @@ fyyj 考试说明
 fyyt 南京话
 fyyv 协议离婚
 fyyw 博弈论
-g 一 王 到
-ga 开 型 弄
+g 一 王 到 弄 屯 臻 青 吾 熬
+ga 开 型 弄 邢 琊 形 贰 武 鹉
 gaa 形式 一幕幕 开幕式
 gaaa 形式 开工 开幕式
 gaab 一节节
@@ -23971,7 +23971,7 @@ gays 开讲
 gayt 荆州 不苟言笑
 gayv 开朗
 gayy 形式主义
-gb 顿 屯 珥
+gb 顿 屯 珥 武陵 开除 弄出 到了 王子 天际
 gba 环卫工
 gbaa 环卫工
 gbaw 环卫工人
@@ -24082,7 +24082,7 @@ gbx 不出意外
 gbxq 不出意外
 gby 不承认
 gbyw 不承认
-gc 至 致 玛
+gc 到 致 玛
 gca 万圣节
 gcab 万圣节
 gcah 玛雅
@@ -24262,7 +24262,7 @@ gcys 不能这样
 gcyt 不允许
 gcyu 不能说
 gcyy 不能言说
-gd 天 吞 到达
+gd 天 吞 到达 瑚 忝 蚕 顼 琦 珑
 gda 表达式 不确切 亚太区
 gdaa 表达式
 gdaj 天蓝 天幕 蚕茧
@@ -24584,7 +24584,7 @@ gdyu 表面文章
 gdyv 天良 武大郎
 gdyx 正确率
 gdyy 天文 平面设计 不成文
-ge 表 青 静
+ge 表 青 静 郬 瑗 玥 靓 琢 瑶
 gea 青葱
 geac 青苔
 gead 青藏
@@ -24857,7 +24857,7 @@ geyu 不靠谱 不用说
 geyw 静夜 还有这个 不告诉你
 geyx 表率
 geyy 不爱说话
-gf 玩 球 环境
+gf 玩 球 环境 珐 玮 开支 开动 开场 至于
 gfa 不规范 惠城区
 gfac 球茎
 gfaf 球鞋
@@ -25119,7 +25119,7 @@ gfys 不堪设想 一直这样
 gfyu 至于说
 gfyx 平均率
 gfyy 平均主义 环境主义
-gg 五 琴 一致
+gg 五 琴
 gga 一切 玫瑰花 豌豆荚
 ggaa 一式
 ggab 环节
@@ -25579,7 +25579,7 @@ ggyq 一刻 下一刻
 ggyu 一说
 ggyw 一夜 不否认
 ggyy 一文 刑事诉讼
-gh 下
+gh 下 一些 弄得 鄢 玻 正 璩 焉 丐
 gha 正式 政工
 ghaa 正式 政工
 ghab 下节
@@ -25937,7 +25937,7 @@ ghyt 一点就透
 ghyv 下诏
 ghyw 政论
 ghyy 正文 下文
-gi 还 否 歪
+gi 还 否 歪 邳 甭 丕 琐 珧 孬
 gia 麦当劳 下酒菜 青浦区
 giad 不若
 giae 不散 下酒菜
@@ -26353,7 +26353,7 @@ giyv 不良
 giyw 不论 否认 政治文化 天演论
 giyx 不谙
 giyy 不该 王洪文
-gj 更 惠
+gj 更 惠 顿时 亘 瑁 丌 琨 璟 軎
 gja 亚非欧
 gjar 亚非欧
 gjas 不是东西
@@ -26586,7 +26586,7 @@ gjyt 惠州 不是这么 来电话
 gjyu 不是说
 gjyv 来电记录
 gjyw 不是这个
-gk 事 吾
+gk 事 吾 武器 豇 囊 豉 蠹 噩 卅
 gka 一咬牙 豇
 gkaa 豆芽
 gkad 事项
@@ -26765,7 +26765,7 @@ gkyn 事记
 gkyo 事迹 事变
 gkyt 不听话
 gkyu 更别说
-gl 理 副 画
+gl 画 副 理
 gla 理工
 glaa 理工
 glaq 画苑
@@ -27009,7 +27009,7 @@ glyn 副词
 glyu 画谱
 glyw 理论
 glyy 理该
-gm 现 两 再
+gm 现 两 再 郦 邴 瑞 丽 珊 璎
 gma 一朵花 平谷区
 gmab 两节
 gmad 两项
@@ -27351,7 +27351,7 @@ gmys 天赐良机
 gmyt 两讫
 gmyu 再说
 gmyy 再议
-gn 与 瓦 事情
+gn 与 瓦 事情 珉 琚 欤 瑕 开展 开局
 gna 珉
 gnaa 瓦工
 gnag 与共
@@ -27516,7 +27516,7 @@ gnyr 与谁
 gnyu 不必说
 gnyv 开心就好
 gnyy 理性主义 理性认识
-go 来 亚 恶
+go 来 亚 恶 戬 垩 珞 灭 晋 严
 goa 戬 平底鞋 王祖蓝
 goaf 平底鞋
 goai 亚东
@@ -27785,7 +27785,7 @@ goyt 一席话
 goyu 来说
 goyw 不断变化
 goyy 灭亡
-gp 带 琛 璇
+gp 带 一定 璇
 gpa 不定式 开放区
 gpaa 不定式
 gpal 一定范围 平方英里 现实世界
@@ -28001,7 +28001,7 @@ gpyn 形容词
 gpyt 带话 不善言辞 不容许
 gpyw 平安夜
 gpyy 现实主义 不善言谈 天方夜谭
-gq 万 迈 熬
+gq 万 迈 熬 聱 鳌 骜 獒 螯 虺
 gqa 万世
 gqab 豆角茄子
 gqan 万世
@@ -28230,7 +28230,7 @@ gqyp 万豪
 gqyu 不多说
 gqyw 熬夜
 gqyy 玖
-gr 珠 碧 珀
+gr 珠 碧 珀 瑰 到手 天皇 天后 青年 表白
 gra 青年节
 grab 青年节
 grai 碧落
@@ -28397,7 +28397,7 @@ grye 不希望
 gryf 五年高考
 gryl 正所谓
 gryt 不擅言辞
-gs 末 琳 琪
+gs 末 琳 琪 玎 珂 开机 武林 武术 天生
 gsa 一枝花 一杯茶
 gsab 末节
 gsag 一柱擎天
@@ -28643,7 +28643,7 @@ gsyt 不要这么 不可调和
 gsyu 不可言状 与其说
 gsyw 不可言传
 gsyy 理想主义 不要忘记 不可言说
-gt 麦 玫 五笔
+gt 麦 玫 五笔 麸 琍 璁 天敌 玩笑 王牌
 gta 不等式 一等功
 gtaa 麦芽 不等式 不辞劳苦
 gtaj 麦草
@@ -28863,7 +28863,7 @@ gtyt 玩笑话 一番话
 gtyv 万箭齐发
 gtyx 不和谐
 gtyy 玫
-gu 平 夹
+gu 平 夹 开关 郏 颊 璋 开瓶 开头 形状
 gua 一站式 下半区
 guaa 一站式
 guae 夹菜
@@ -29096,7 +29096,7 @@ guyg 一决高下
 guym 平调
 guyt 平话
 guyw 更新文件 下半夜
-gv 妻 开始
+gv 妻 开始 开发 疌 瑙 珺 开刀 天猫 靓妹
 gva 开发区 一刀切 不好惹
 gvaa 天女散花
 gvad 不好惹
@@ -29219,7 +29219,7 @@ gvyj 不如说是
 gvys 不如这样
 gvyu 不好说 不如说
 gvyy 不建议 不忍卒读 不妨试试
-gw 珍 玲 不仅
+gw 珍 玲 不仅 玳 瑜 开会 天使 开创 形似
 gwa 不信邪 玳 责任区
 gwad 珍藏
 gwah 不信邪
@@ -29469,7 +29469,7 @@ gwys 不会这样
 gwyt 不会这么 一段话 不像话
 gwyw 现代文化
 gwyy 现代主义 环保主义 素食主义
-gx 素 毒 互
+gx 素 毒 互 纛 夷 天意 天线 青丝 不强
 gxa 毒药
 gxae 素菜
 gxaf 天纵英才
@@ -29674,7 +29674,7 @@ gxyr 互诉
 gxyu 五线谱
 gxyw 下结论
 gxyy 互谅
-gy 班 玉
+gy 班 玉 一刻 璃 琉 斑 琼 琅 玟
 gya 班花 班草 开斋节
 gyab 开斋节
 gyag 不谙世事
@@ -29906,8 +29906,8 @@ gyyt 琼州 不亦说乎
 gyyu 斑斓
 gyyw 不识高低
 gyyy 玟
-h 上 很 得
-ha 瞒 饶 彻
+h 上 很 得 虎 躲 身 桌 卓 鼎
+ha 瞒 饶 彻 馓 眶 馍 馑 瞄 躯
 haa 紫荆花
 haaw 紫荆花
 hab 黑匣子
@@ -29983,7 +29983,7 @@ haxy 卢巧音
 hay 彻夜
 hayt 饶州
 hayw 彻夜
-hb 齿 龄
+hb 齿 龄 上限 龃 饵 龉 龊 龌 龅
 hba 龅牙
 hbah 龇牙 龅牙
 hbd 上了大学
@@ -30038,7 +30038,7 @@ hbvk 龆
 hbx 龀
 hby 得陇望蜀
 hbyl 得陇望蜀
-hc 皮 颇 径
+hc 皮 颇 径 饴 眙 睃 攴 瞒骗 卡通
 hca 皮匠
 hcaf 皮鞋 皮革 皮鞭 皮靴
 hcai 皮薄
@@ -30167,7 +30167,7 @@ hcye 皮衣
 hcyg 行驶证
 hcyl 颇高
 hcyu 很难说
-hd 德 很大
+hd 德 很大 上面 睚 瞭 眬 桌面 默契 餐厅
 hda 很成功
 hdak 德勤
 hdal 很成功
@@ -30262,7 +30262,7 @@ hdyh 很感谢
 hdyt 德州
 hdyw 很大变化
 hdyy 德文
-he 肯 睬 瞬
+he 肯 睬 瞬 徂 饩 遽 徭 馁 皮肤
 hea 紫气东来
 heag 紫气东来
 heb 饿肚子
@@ -30349,7 +30349,7 @@ hey 占有率 盼月亮
 heyp 盼月亮
 heyu 肯说
 heyx 占有率
-hf 待 街 射
+hf 待 街 射 歧 瞌 瞋 眭 睹 黠
 hfa 街区
 hfab 街巷
 hfam 歧黄
@@ -30511,7 +30511,7 @@ hfyj 微博话题
 hfyr 歧义
 hfyx 点击率
 hfyy 虚无主义
-hg 征 凸 惩
+hg 征 凸 惩 饯 盹 饨 睛 芈 眄
 hga 饯 徐静蕾 行政区
 hgaa 惩戒 行政区划
 hgad 惩一警百
@@ -30706,7 +30706,7 @@ hgys 征订 目不识丁
 hgyt 行政主管
 hgyu 上来说
 hgyy 征文 上下文
-hh 卡 目 止
+hh 卡 目 止 彼 虍 徙 瞿 卜 衢
 hha 上菜
 hhaa 上式
 hhab 上节
@@ -31036,7 +31036,7 @@ hhyt 步步高升 衢州
 hhyu 上说
 hhyw 往往就会 上谕
 hhyy 上文
-hi 步 叔 频
+hi 步 叔 频 督 颦 瞠 衍 愆 眺
 hia 徐汇区 卢湾区
 hiah 躺卧
 hiar 徐汇区 卢湾区
@@ -31183,7 +31183,7 @@ hiyp 很漂亮
 hiyt 上海话
 hiyu 频谱 微小说
 hiyx 频率
-hj 旧 桌 卓
+hj 旧 桌 卓 徘 馒 馄 蚀 点明 点题
 hja 旧式
 hjaa 旧式
 hjaf 卓著
@@ -31374,7 +31374,7 @@ hjyq 蚀刻
 hjyt 旧话
 hjyu 旧说
 hjyy 旧文
-hk 点 占
+hk 点 占 卡号 战 虞 馈 觇 乩 徒
 hka 战
 hkae 点菜
 hkaf 战靴
@@ -31583,7 +31583,7 @@ hkye 战衣
 hkyg 点评 乩语
 hkyn 点讯
 hkyp 点亮
-hl 行 虏 卤
+hl 行 虏 卤 徊 卣 鹾 齿轮 德国 街边
 hla 行医
 hlad 卤莽
 hlae 卤菜
@@ -31740,7 +31740,7 @@ hlyn 行记
 hlyo 行迹 战略高度
 hlyt 行话
 hlyy 行文
-hm 微 虎 躲
+hm 微 虎 躲 役 彪 徽 徵 饥 贞
 hma 饥荒
 hmab 贞节
 hmad 躲藏 微苦
@@ -31918,7 +31918,7 @@ hmyn 微词 徽记
 hmyo 微变
 hmyp 微亮
 hmyt 徽州
-hn 卢 虑 鼎
+hn 卢 虑 鼎 瞰 颅 爿 忐 馔 鸬
 hna 眠
 hnaj 饲草
 hnak 卢勤
@@ -32008,7 +32008,7 @@ hnxr 身怀绝技
 hnxx 卢比
 hny 饲育
 hnyc 饲育
-ho 黑 虚
+ho 黑 虚 彻底 黜 黢 黪 默 墨 黠
 hoa 虚荣 黑火药
 hoaf 黑鞋
 hoaj 黑幕
@@ -32234,7 +32234,7 @@ hoyv 虚妄
 hoyw 默认 黑夜
 hoyx 上座率
 hoyy 虚文
-hp 馆 瞎 肯定
+hp 馆 瞎 肯定 壑 睿 徉 瞑 馐 眈
 hpa 馆藏
 hpad 馆藏
 hpai 上善若水
@@ -32337,7 +32337,7 @@ hpyq 瞎诌
 hpys 肯定就要 瞎讲
 hpyt 瞎话
 hpyu 瞎说
-hq 饮 饿 餐
+hq 饮 饿 餐 粲 瞻 歺 衡 徇 馋
 hqa 行列式
 hqaa 行列式
 hqae 饿莩
@@ -32512,7 +32512,7 @@ hqy 馏
 hqye 瞻望
 hqyf 饱读
 hqyo 点儿词库
-hr 瞧 睢 御
+hr 瞧 睢 饭 御 循 徨 徼 睥 射手
 hra 卡扎菲
 hrae 饭菜
 hraj 卡扎菲
@@ -32636,7 +32636,7 @@ hrye 虚拟语气
 hryj 目的就是
 hryp 瞧这
 hrys 虚拟主机
-hs 盯 瞟
+hs 盯 瞟 目标 馇 虨 躰 徃 徆 䬱
 hsa 卡西欧
 hsar 卡西欧
 hsb 黑木耳
@@ -32713,7 +32713,7 @@ hsx 上框线
 hsxg 上框线
 hsy 衍生词
 hsyn 衍生词
-ht 睡 身 饰
+ht 睡 身 饰 饫 饪 饬 饷 瞅 眨
 hta 身世
 htah 睡卧
 htal 睡莲
@@ -32877,7 +32877,7 @@ htyb 睡熟
 htye 睡衣
 htyl 身高
 htyy 身亡
-hu 饼 饺
+hu 饼 饺 街道 瞳 睇 瞄准 瞬间 上瘾 上头
 hua 止疼药 止痛药
 huan 街头巷尾
 huar 上半区
@@ -32969,7 +32969,7 @@ huy 上半夜
 huye 睇望
 huys 行将就木
 huyw 上半夜
-hv 眼 律 虐
+hv 眼 律 虐 馊 瞍 睨 饧 目录 黑猫
 hva 眼花
 hvad 很苦
 hvae 很菜
@@ -33178,7 +33178,7 @@ hvyf 律诗
 hvyl 很高
 hvyo 虐恋
 hvyp 很亮 眼亮
-hw 徐 瞪 黔
+hw 徐 瞪 黔 睽 饸 馀 睑 饶命 躯体
 hwa 占领区
 hwal 卡介苗
 hwar 占领区
@@ -33290,7 +33290,7 @@ hwyk 身份证号
 hwyr 瞧你说的
 hwyt 徐州
 hwyy 身体语言
-hx 此 些 紫
+hx 此 些 紫 砦 彿 黝 赀 躬 觜
 hxa 紫菜
 hxad 此项
 hxae 紫菜
@@ -33465,7 +33465,7 @@ hxyt 些许 此话
 hxyu 此说
 hxyw 此论
 hxyy 此文
-hy 往 虔
+hy 往 虔 上文 眩 瞝 徹 瞮 飳 飰
 hya 往昔
 hyai 往东
 hyaj 往昔
